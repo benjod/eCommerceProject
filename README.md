@@ -1,2 +1,2 @@
 # eCommerceProject
-Php project of e-commerce website 
+Php project of e-commerce website.
